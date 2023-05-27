@@ -1,9 +1,14 @@
 .Footer {
-    background:#C1E1C1 ;
-    height: 85px;
+    background-color: #A7C7E7;
     display: flex;
     padding: 10px;
     align-items: center;
     text-decoration: none;
-    justify-content: space-around;
+    /* justify-content: space-around; */
+    justify-content: center;
+  }
+
+  .Footer > a {
+    color:black;
+    padding-right: 10px;
   }

@@ -1,0 +1,12 @@
+.Navbar {
+  background:#C1E1C1 ;
+  height: 85px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  text-decoration: none;
+
+}
+.Navbar > h1{
+}

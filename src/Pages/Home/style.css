@@ -1,5 +1,7 @@
 .Home{
     background-color: #A7C7E7;
-    height:100vh;
-      
+    height:100vh;   
+}
+.Home > img{
+    width:30%
 }
